@@ -23,7 +23,7 @@ Features to be implemented:
 
 
 ## Installation
-Use [this](https://get-fed-project.herokuapp.com/) link. If the deployed application shows no data, the Documenu API key may have run out :(
+Use [this](https://food-finder-tt.herokuapp.com/) link. If the deployed application shows no data, the Documenu API key may have run out :(
 
 Alternatively, if you would like to use this code, feel free to clone the code, open it in your favorite IDE, run `npm i` in the root and client and server folders, and then `npm develop` from the root of the project. To create additional API keys, simply navigate to [this](https://documenu.com/) website, create an account, and use the API key on the dashboard page.
 
